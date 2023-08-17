@@ -1,4 +1,4 @@
-/* Button Styles */
+/* Button Styles taemp. */
 .button {
   display: inline-block;
   padding: 12px 24px;
@@ -103,9 +103,4 @@ blockquote {
   color: #777;
 }
 
-.highlight {
-  background-color: #FFC371;
-  padding: 2px 4px;
-  border-radius: 4px;
-  color: #fff;
-}
+
